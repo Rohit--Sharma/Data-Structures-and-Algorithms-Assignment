@@ -1,3 +1,3 @@
-rohit123
+Data-Structures-and-Algorithms-Assignment
 ========
-DSA Assignment 1
+This repo has few codes in C implemented as a part of Data Structures and Algorithms course.
